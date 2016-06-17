@@ -1,0 +1,1 @@
+REG ADD "HKLM\Software\Google\Chrome\NativeMessagingHosts\com.google.chrome.zycsy" /ve /t REG_SZ /d "%~dp0SyPrintTool\Debug\com.google.chrome.zycsy.extension-win.json" /f
